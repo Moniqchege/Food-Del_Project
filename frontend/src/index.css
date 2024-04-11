@@ -9,7 +9,9 @@
 }
 body {
   min-height: 100vh;
-  background: darkgray;
+  background: rgb(240, 240, 240);
+  
+
 }
 a {
   text-decoration: none;

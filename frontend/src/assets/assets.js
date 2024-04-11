@@ -206,146 +206,146 @@ export const food_list = [
     },
     {
         _id: "13",
-        name: "Chicken Sandwich",
+        name: "Enkulal Ferfer",
         image: food_13,
         price: 12,
-        description: "Food provides essential nutrients for overall health and well-being",
-        category: "Sandwich"
+        description: "Enkulal ferfer is made from eggs, onion, butter, and chili pepper and is served with injera or bread.",
+        category: "Ethiopia"
     },
     {
         _id: "14",
-        name: "Vegan Sandwich",
+        name: "Chechebsa",
         image: food_14,
         price: 18,
-        description: "Food provides essential nutrients for overall health and well-being",
-        category: "Sandwich"
+        description: "It is prepared from chopped tortilla mixed with butter and berbere.",
+        category: "Ethiopia"
     }, {
         _id: "15",
-        name: "Grilled Sandwich",
+        name: "Bula",
         image: food_15,
         price: 16,
-        description: "Food provides essential nutrients for overall health and well-being",
-        category: "Sandwich"
+        description: "Bula is made from enset, a plant called Abyssinia banana that grows in southern Ethiopia. ",
+        category: "Ethiopia"
     }, {
         _id: "16",
-        name: "Bread Sandwich",
+        name: "Fasting Ferfer ",
         image: food_16,
         price: 24,
-        description: "Food provides essential nutrients for overall health and well-being",
-        category: "Sandwich"
+        description: "It's consumed during breakfast, made from injera, onion, berbere, garlic, and chili pepper.",
+        category: "Ethiopia"
     }, {
         _id: "17",
-        name: "Cup Cake",
+        name: "Canjeero",
         image: food_17,
         price: 14,
-        description: "Food provides essential nutrients for overall health and well-being",
-        category: "Cake"
+        description: "It’s a simple food made with two basic ingredients: flour and yeast.This light meal, perfect for early risers",
+        category: "Somalia"
     }, {
         _id: "18",
-        name: "Vegan Cake",
+        name: "Muufo",
         image: food_18,
         price: 12,
-        description: "Food provides essential nutrients for overall health and well-being",
-        category: "Cake"
+        description: "Muufo is rich in carbohydrates as it’s made from corn flour dough, without any yeast.",
+        category: "Somalia"
     }, {
         _id: "19",
-        name: "Butterscotch Cake",
+        name: "Baasto",
         image: food_19,
         price: 20,
-        description: "Food provides essential nutrients for overall health and well-being",
-        category: "Cake"
+        description: "It's prepared with a traditional pasta sauce of meatballs, tomatoes, potato slices, garlic, onion, sunflower oil, and xawaaji (a Somali spice mixture).",
+        category: "Somalia"
     }, {
         _id: "20",
-        name: "Sliced Cake",
+        name: "Baaris",
         image: food_20,
         price: 15,
-        description: "Food provides essential nutrients for overall health and well-being",
-        category: "Cake"
+        description: "It's cooked with onion, garlic, and xawaash and served with Somali sauce toppings and roasted lamb, camel, goat, chicken, or beef.",
+        category: "Somalia"
     }, {
         _id: "21",
-        name: "Garlic Mushroom ",
+        name: "Asseeda",
         image: food_21,
         price: 14,
-        description: "Food provides essential nutrients for overall health and well-being",
-        category: "Pure Veg"
+        description: "This traditional dish is a doughy dumpling made with wheat flour stirred into boiling water, and it is topped with salt and melted butter or honey. ",
+        category: "South Sudan"
     }, {
         _id: "22",
-        name: "Fried Cauliflower",
+        name: "Gourrassa",
         image: food_22,
         price: 22,
-        description: "Food provides essential nutrients for overall health and well-being",
-        category: "Pure Veg"
+        description: "It is a Sudanese flatbread made with wheat flour, baking powder, salt, and yeast and baked in a circular shape.",
+        category: "South Sudan"
     }, {
         _id: "23",
-        name: "Mix Veg Pulao",
+        name: "Kamounia",
         image: food_23,
         price: 10,
-        description: "Food provides essential nutrients for overall health and well-being",
-        category: "Pure Veg"
+        description: "It is prepared with beef or lamb, liver, cumin, lime juice, parsley, oil, rich peanut butter dressing, and garlic.",
+        category: "South Sudan"
     }, {
         _id: "24",
-        name: "Rice Zucchini",
+        name: "Shaiyah",
         image: food_24,
         price: 12,
-        description: "Food provides essential nutrients for overall health and well-being",
-        category: "Pure Veg"
+        description: "It is pan fried beef, lamb, or goat, which needs to include bony and fatty pieces for the extra flavor.",
+        category: "South Sudan"
     },
     {
         _id: "25",
-        name: "Cheese Pasta",
+        name: "Igisafuria",
         image: food_25,
         price: 12,
-        description: "Food provides essential nutrients for overall health and well-being",
-        category: "Pasta"
+        description: "Igisafuria is made by frying chicken thighs with some spinach and green plantains.",
+        category: "Rwanda"
     },
     {
         _id: "26",
-        name: "Tomato Pasta",
+        name: "Akabenzi",
         image: food_26,
         price: 18,
-        description: "Food provides essential nutrients for overall health and well-being",
-        category: "Pasta"
+        description: "The meat is dry-fried and later garnished with coriander leaves. Akabenzi makes a perfect accompaniment for boiled rice.",
+        category: "Rwanda"
     }, {
         _id: "27",
-        name: "Creamy Pasta",
+        name: "Agatogo",
         image: food_27,
         price: 16,
-        description: "Food provides essential nutrients for overall health and well-being",
-        category: "Pasta"
+        description: "Agatogo is a local cuisine made from a blend of plantains, meat and spices.",
+        category: "Rwanda"
     }, {
         _id: "28",
-        name: "Chicken Pasta",
+        name: "Brochettes",
         image: food_28,
         price: 24,
-        description: "Food provides essential nutrients for overall health and well-being",
-        category: "Pasta"
+        description: "The local meat is skewered and grilled specifically over a charcoal stove. This traditional method gives brochettes a unique taste.",
+        category: "Rwanda"
     }, {
         _id: "29",
-        name: "Buttter Noodles",
+        name: "Marake Kaloune",
         image: food_29,
         price: 14,
-        description: "Food provides essential nutrients for overall health and well-being",
-        category: "Noodles"
+        description: "Marake Kaloune is a fish stew made with white fish filet, rice, onions, okra, eggplants and tomatoes",
+        category: "Djibouti"
     }, {
         _id: "30",
-        name: "Veg Noodles",
+        name: "Mukbaza",
         image: food_30,
         price: 12,
-        description: "Food provides essential nutrients for overall health and well-being",
-        category: "Noodles"
+        description: "Mukbaza, also known as Yemeni poisson, is a roasted fish dish known for its unique look that is comparable to the folded flatbread",
+        category: "Djibouti"
     }, {
         _id: "31",
-        name: "Somen Noodles",
+        name: "Xalwo",
         image: food_31,
         price: 20,
-        description: "Food provides essential nutrients for overall health and well-being",
-        category: "Noodles"
+        description: "Xalwo is a chewy cornstarch-based confectionery seasoned with brown sugar, cardamom, cloves, and saffron.",
+        category: "Djibouti"
     }, {
         _id: "32",
-        name: "Cooked Noodles",
+        name: "Sambusa",
         image: food_32,
         price: 15,
-        description: "Food provides essential nutrients for overall health and well-being",
-        category: "Noodles"
+        description: "Djiboutian sambusas, are meat and onion stuffed pastries flavored with garlic, chilis, eaten as a savory appetizer or snack.",
+        category: "Djibouti"
     }
 ]
